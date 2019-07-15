@@ -1,0 +1,10 @@
+C:\Users\codem\Desktop\Stuff\VStudio Projects\Discord Webhook Bomber\bin\Debug\Discord Webhook Bomber.exe.config
+C:\Users\codem\Desktop\Stuff\VStudio Projects\Discord Webhook Bomber\bin\Debug\Discord Webhook Bomber.exe
+C:\Users\codem\Desktop\Stuff\VStudio Projects\Discord Webhook Bomber\bin\Debug\Discord Webhook Bomber.pdb
+C:\Users\codem\Desktop\Stuff\VStudio Projects\Discord Webhook Bomber\obj\Debug\Discord Webhook Bomber.csprojAssemblyReference.cache
+C:\Users\codem\Desktop\Stuff\VStudio Projects\Discord Webhook Bomber\obj\Debug\Discord_Webhook_Bomber.Properties.Resources.resources
+C:\Users\codem\Desktop\Stuff\VStudio Projects\Discord Webhook Bomber\obj\Debug\Discord Webhook Bomber.csproj.GenerateResource.cache
+C:\Users\codem\Desktop\Stuff\VStudio Projects\Discord Webhook Bomber\obj\Debug\Discord Webhook Bomber.csproj.CoreCompileInputs.cache
+C:\Users\codem\Desktop\Stuff\VStudio Projects\Discord Webhook Bomber\obj\Debug\Discord Webhook Bomber.exe
+C:\Users\codem\Desktop\Stuff\VStudio Projects\Discord Webhook Bomber\obj\Debug\Discord Webhook Bomber.pdb
+C:\Users\codem\Desktop\Stuff\VStudio Projects\Discord Webhook Bomber\obj\Debug\Discord_Webhook_Bomber.Bomber.resources
